@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,50:FF0000,100:8B0000&text=Jeet%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<h1 align="center">Hi 👋 I'm Jeet Dey</h1>
+<h1 align="center">Hi 👋  I'm Jeet Dey</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+Modern+Web+Technologies;Building+Projects+Every+Day;Passionate+About+Coding;Always+Learning+New+Things" />
