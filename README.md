@@ -45,7 +45,7 @@
 # 🗄️ Databases & ORM
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" />
 </p>
 
 <p align="center">
