@@ -1,6 +1,4 @@
-<img alt="Jeet Dey — terminal profile" src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/light.svg">
 
----
 
 # 🚀 About Me
 💻 I am a **passionate learner exploring modern web technologies and backend development.**
