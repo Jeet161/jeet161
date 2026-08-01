@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,50:FF0000,100:8B0000&text=Jeet%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-<h1 align="center">Hi 👋  I'm Jeet Dey</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+Modern+Web+Technolo[...]"
-</p>
+<img alt="Jeet Dey — terminal profile" src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/light.svg">
 
 ---
 
@@ -54,12 +48,10 @@ ORM Tools
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet161&layout=compact&theme=dark&hide_border=true" width="35%" />
 </p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true" width="60%" />
 </p>
@@ -67,7 +59,6 @@ ORM Tools
 ---
 
 # 🐍 Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
