@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal-style profile — light</title>
+  <desc id="desc">A terminal-style profile card with portrait on the left and SYSTEM.INFO table on the right (light variant).</desc>
+  <defs>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6fbff"/>
+      <stop offset="100%" stop-color="#eef6ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .card{fill:url(#cardGrad);stroke:#0ea5a0;stroke-width:3;filter:url(#glow);}
+      .topbar{fill:#0b3b3b}
+      .dot-red{fill:#ff5f56}
+      .dot-yellow{fill:#ffbd2e}
+      .dot-green{fill:#27c93f}
+      .accent{fill:#0891B2}
+      .muted{fill:#0f172a}
+      .mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace; font-size:14px; fill:#071121}
+      .mono-bold{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace; font-size:14px; fill:#071121; font-weight:700}
+      a{fill:#055f63}
+    </style>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="10" y="10" rx="20" ry="20" width="1080" height="440" class="card"/>
+
+  <!-- Top bar -->
+  <rect x="26" y="24" rx="10" ry="10" width="1048" height="28" fill="#071a1b" opacity="0.9"/>
+  <circle cx="46" cy="38" r="6" class="dot-red"/>
+  <circle cx="66" cy="38" r="6" class="dot-yellow"/>
+  <circle cx="86" cy="38" r="6" class="dot-green"/>
+  <text x="540" y="42" text-anchor="middle" class="mono" fill="#94a3b8">connect.jeetdey@gmail.com - % ./profile.sh --live</text>
+
+  <!-- Left portrait frame -->
+  <rect x="40" y="64" width="420" height="360" rx="8" ry="8" fill="#081823" stroke="#06b6d4" stroke-width="2"/>
+  <!-- portrait image (GitHub avatar) -->
+  <clipPath id="portraitClip"><rect x="46" y="70" width="408" height="336" rx="6" ry="6"/></clipPath>
+  <image href="https://github.com/Jeet161.png" x="46" y="70" width="408" height="336" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)"/>
+  <!-- subtle inner frame -->
+  <rect x="46" y="70" width="408" height="336" rx="6" ry="6" fill="none" stroke="#8be3df" opacity="0.18"/>
+
+  <!-- Right column header -->
+  <text x="500" y="100" class="mono-bold" fill="#0891B2">SYSTEM.INFO</text>
+  <rect x="680" y="82" rx="12" ry="12" width="300" height="24" fill="#7c3aed" opacity="0.95"/>
+  <text x="840" y="98" text-anchor="middle" class="mono" fill="#ffffff">connect.jeetdey@gmail.com</text>
+  <circle cx="1020" cy="94" r="5" fill="#ff4d4f"/>
+  <text x="1032" y="98" class="mono" fill="#ff6b6b">LIVE</text>
+
+  <!-- Info table (keys left, dotted leaders, values right) -->
+  <g class="mono" fill="#0b1f2a">
+    <text x="500" y="140">Name</text>
+    <text x="980" y="140" text-anchor="end">Jeet Dey</text>
+
+    <text x="500" y="168">Role</text>
+    <text x="980" y="168" text-anchor="end">Aspiring Full-Stack Developer</text>
+
+    <text x="500" y="196">Location</text>
+    <text x="980" y="196" text-anchor="end">—</text>
+
+    <text x="500" y="224">Education</text>
+    <text x="980" y="224" text-anchor="end">—</text>
+
+    <text x="500" y="252">Status</text>
+    <text x="980" y="252" text-anchor="end">Learning & Building</text>
+
+    <text x="500" y="280">ToolChain</text>
+    <text x="980" y="280" text-anchor="end">VS Code · Git · Node · React</text>
+
+    <text x="500" y="308">Core.Lang</text>
+    <text x="980" y="308" text-anchor="end">JavaScript · Python · C++</text>
+
+    <text x="500" y="336">Core.Frontend</text>
+    <text x="980" y="336" text-anchor="end">React</text>
+
+    <text x="500" y="364">Core.Backend</text>
+    <text x="980" y="364" text-anchor="end">Node.js</text>
+
+    <text x="500" y="392">Core.Database</text>
+    <text x="980" y="392" text-anchor="end">Postgres · MongoDB</text>
+
+    <text x="500" y="420">Core.Infra</text>
+    <text x="980" y="420" text-anchor="end">Vercel · Docker · GitHub</text>
+  </g>
+
+  <!-- Footer hint -->
+  <text x="46" y="450" class="mono" fill="#0b1f2a">▸ More about me & projects below in README ↓</text>
+
+</svg>
