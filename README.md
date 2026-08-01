@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeet161/Jeet161/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeet161/Jeet161/main/light.svg">
-  <img alt="Jeet Dey — terminal profile" src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/light.svg">
-</picture>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,50:FF0000,100:8B0000&text=Jeet%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <h1 align="center">Hi 👋  I'm Jeet Dey</h1>
