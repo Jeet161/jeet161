@@ -152,9 +152,6 @@ My goal is to become a strong software engineer by building real-world systems, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeet161&theme=github_dark" width="48%" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeet161&theme=github_dark" width="50%" alt="Top Languages" />
-</p>
 
 ---
 
