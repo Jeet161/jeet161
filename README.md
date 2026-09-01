@@ -1,15 +1,13 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/banner.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/banner.jpg" width="100%" alt="Header Banner" />
 
-# Hi 👋, Jeet Dey
+  # Hi 👋, I'm Jeet Dey
 
-### Full-Stack Developer
+  ### Full-Stack Developer | ECE & AI/ML Student
 
-<code>Just Code Nig</code>
-
-<br/>
-
-<p>Building reliable full-stack applications & scalable backend systems with clean architecture.</p>
+  <p align="center">
+    <i>Building modern full-stack applications, backend systems, and AI-powered solutions with clean, practical engineering.</i>
+  </p>
 </div>
 
 ---
@@ -18,18 +16,23 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-**Jeet Dey** — an Electronics & Communication Engineering (ECE) student focused on full-stack web development.
+🎓 **Education:**
+- **B.Tech in Electronics & Communication Engineering (ECE)**
+- **Honors in AI/ML**
+- **Lovely Professional University**
 
-I enjoy building scalable, production-ready web applications and APIs with **Python**, **TypeScript**, **React**, and **FastAPI**, while continuously improving my understanding of real-world systems.
+💡 **Passions & Focus:**
+- Full-Stack Web Applications & Backend Architecture
+- AI/ML Solutions & Data Integration
+- Embedded Systems, IoT & Hardware Projects
+- Algorithmic Problem Solving & System Design
 
-Currently, I'm learning **FastAPI**, **React**, **PostgreSQL**, **SQLAlchemy**, **Docker**, and **Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
-
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+My goal is to become a strong software engineer by building real-world systems, understanding how they work under the hood, and continuously improving my skills in backend engineering, system design, AI/ML, and problem solving.
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/avatar.png" width="100%" alt="Developer Workstation" />
 </td>
 </tr>
@@ -37,70 +40,153 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 ---
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-<a href="https://github.com/Jeet161" target="_blank">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/jeet161" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:connect.jeetdey@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" />
-</a>
+  <a href="https://github.com/Jeet161" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jeet161" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:connect.jeetdey@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,kotlin,fastapi,postgres,mongodb,mysql,redis,docker,kubernetes,git&perline=14" alt="Languages, Frameworks & Backend" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=github,gitlab,aws,html,css,react,nextjs,tailwind,vuejs,vscode,postman,figma,notion,linux&perline=14" alt="DevOps, Tools & Frontend" />
+### 🔤 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&perline=10" alt="Languages" />
+</p>
+
+### ⚛️ Frontend Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=10" alt="Frontend" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&perline=10" alt="Backend" />
+</p>
+
+### 🗄️ Databases & ORMs
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma&perline=10" alt="Databases" />
+</p>
+
+### 🤖 AI, Data & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&perline=10" alt="AI & Hardware" />
+</p>
+
+### 🐳 DevOps, Tools & OS
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel&perline=10" alt="Tools & Cloud" />
 </p>
 
 ---
 
 <h2 align="center">🎯 What I Build</h2>
 
-- 🌐 **Full-Stack Web Applications**
-- ⚙️ **RESTful APIs & Backend Services**
-- 🗄️ **Database Design & Optimization**
-- 🐳 **Containerized Applications with Docker**
-- 📱 **Responsive Frontend Applications**
-- 🚀 **Scalable System Architecture**
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🌐 <b>Full-Stack Web Applications</b></li>
+        <li>⚙️ <b>REST APIs & Backend Services</b></li>
+        <li>🤖 <b>AI-Powered Applications</b></li>
+        <li>🗄️ <b>Database-Driven Systems</b></li>
+        <li>📊 <b>Data & ML Applications</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🔌 <b>IoT & Embedded Projects</b></li>
+        <li>🐳 <b>Containerized Applications</b></li>
+        <li>📱 <b>Responsive Web Interfaces</b></li>
+        <li>🚀 <b>Hackathon Projects & Prototypes</b></li>
+        <li>🧩 <b>Automation & Developer Tools</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 FloodGuard</h3>
+      <p>Real-time flood intelligence and safer-route planning platform designed to keep communities safe during natural disasters.</p>
+      <p><code>TypeScript</code> • <code>React</code> • <code>FastAPI</code> • <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 PDF AI</h3>
+      <p>AI-powered PDF & document processing application featuring intelligent text extraction, QA, and high-performance Python backend.</p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>PyTorch</code> • <code>React</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Multi-Vendor Marketplace</h3>
+      <p>Full-stack e-commerce marketplace featuring multi-vendor management, secure auth, vendor catalog, and order processing.</p>
+      <p><code>Next.js</code> • <code>Node.js</code> • <code>Prisma</code> • <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 Smart Parking & Home IoT</h3>
+      <p>Arduino & ESP32 distance-sensing parking assistance system and smart home prototype integrated with sensors and real-time control.</p>
+      <p><code>C++</code> • <code>Arduino</code> • <code>ESP32</code> • <code>IoT</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">⚡ Currently Learning</h2>
+
+<p align="center">
+  <code>FastAPI</code> &nbsp;|&nbsp;
+  <code>Next.js</code> &nbsp;|&nbsp;
+  <code>PostgreSQL & SQLAlchemy</code> &nbsp;|&nbsp;
+  <code>Docker & Redis</code> &nbsp;|&nbsp;
+  <code>Data Structures & Algorithms</code> &nbsp;|&nbsp;
+  <code>AI/ML & Deep Learning</code> &nbsp;|&nbsp;
+  <code>IoT Systems</code>
+</p>
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true&background=0D1117&ring=1B8A5A&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="48%" alt="GitHub Streak" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeet161&theme=github_dark" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true&background=0D1117&ring=1B8A5A&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeet161&theme=github_dark" width="48%" alt="GitHub Stats" />
 </p>
 
-<br/>
-
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeet161&theme=github_dark" width="50%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeet161&theme=github_dark" width="50%" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
 </p>
 
 ---
 
 <div align="center">
-<h3>BUILD • LEARN • EXPERIMENT • REPEAT</h3>
-<p>⚡ Always learning. Always building.</p>
-<p><sub>📍 India | 🚀 Always learning & growing</sub></p>
+  <h3>BUILD • LEARN • EXPERIMENT • REPEAT</h3>
+  <p>⚡ Always learning. Always building.</p>
+  <p><sub>📍 India | 🚀 ECE & AI/ML Student | Software Engineer</sub></p>
 </div>
