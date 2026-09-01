@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/1618549865446455.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/588001295144628181.jpg" width="100%" alt="Header Banner" />
 
   # **Hi 👋, I'm Jeet Dey**
 
