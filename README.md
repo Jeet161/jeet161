@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/%23discordbanner%20%23banner.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/discordbanner_cropped.jpg" width="100%" alt="Header Banner" />
 
   # **Hi 👋, I'm Jeet**
 
