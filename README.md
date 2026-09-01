@@ -39,36 +39,35 @@ My goal is to become a strong software engineer by building real-world systems, 
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ### 🔤 Languages
-<p><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&perline=8" alt="Languages" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&perline=14" alt="Languages" />
+</p>
 
-### ⚛️ Frontend
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=8" alt="Frontend" /></p>
+### ⚛️ Frontend Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=14" alt="Frontend" />
+</p>
 
 ### ⚙️ Backend & APIs
-<p><img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express&perline=8" alt="Backend" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express&perline=14" alt="Backend" />
+</p>
 
 ### 🗄️ Databases & ORMs
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma&perline=8" alt="Databases" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma&perline=14" alt="Databases" />
+</p>
 
 ### 🤖 AI, Data & Hardware
-<p><img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&perline=8" alt="AI & Hardware" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&perline=14" alt="AI & Hardware" />
+</p>
 
-### 🐳 DevOps & Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel&perline=8" alt="Tools & Cloud" /></p>
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,react,nextjs,tailwind,vite,fastapi,nestjs,nodejs,express,postgres,mongodb,mysql,supabase,prisma,pytorch,opencv,arduino,docker,git,github,linux,postman,vscode,vercel&perline=4" alt="Full Tech Stack Grid" />
-
-</td>
-</tr>
-</table>
+### 🐳 DevOps, Tools & OS
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel&perline=14" alt="Tools & Cloud" />
+</p>
 
 ---
 
