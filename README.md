@@ -60,7 +60,7 @@ Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,elixir,docker,git,github,vscode,html,css,cpp,aws&perline=12" alt="Tech Stack 1" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,js,ts,nodejs,express,mongodb,redis,gcp&perline=10" alt="Tech Stack 2" />
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,js,ts,nodejs,express,mongodb,redis,tailwind,gitlab,gcp&perline=12" alt="Tech Stack 2" />
 </p>
 
 ---
@@ -79,7 +79,14 @@ Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true&background=0D1117&ring=1B8A5A&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="60%" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&bg_color=0d1117&title_color=fff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true&background=0D1117&ring=1B8A5A&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="48%" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet161&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=FFFFFF" width="50%" alt="Top Languages" />
 </p>
 
 ---
@@ -110,4 +117,4 @@ Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **
 
 <br/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F6B4F,100:063B2E&section=footer" width="100%" />
