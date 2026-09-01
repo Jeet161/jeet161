@@ -20,7 +20,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**Jeet Dey** — a final-year Computer Engineering student focused on full-stack web development.
+**Jeet Dey** — an Electronics & Communication Engineering (ECE) student focused on full-stack web development.
 
 I enjoy building scalable, production-ready web applications and APIs with **Python**, **TypeScript**, **React**, and **FastAPI**, while continuously improving my understanding of real-world systems.
 
