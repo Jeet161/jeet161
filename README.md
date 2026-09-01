@@ -22,11 +22,13 @@
 <tr>
 <td width="60%" valign="top">
 
-**Jeet, Here** — a passionate backend developer focused on building scalable, production-ready systems. I enjoy working with modern technologies and solving real-world problems with clean, maintainable code.
+**Jeet Dey** — a final-year Computer Engineering student focused on backend development.
 
-Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **Redis** to deepen my understanding of real-world backend architectures.
+I enjoy building scalable, production-ready APIs with **Python** and continuously improving my understanding of real-world backend systems.
 
-**My Goal:** Write clean code, build reliable software, and grow into a software engineer who creates systems that matter.
+Currently, I'm learning **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **Docker**, and **Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -58,9 +60,9 @@ Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,elixir,docker,git,github,vscode,html,css,cpp,aws&perline=12" alt="Tech Stack 1" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,kotlin,fastapi,postgres,mongodb,mysql,redis,docker,kubernetes,git&perline=14" alt="Languages, Frameworks & Backend" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,js,ts,nodejs,express,mongodb,redis,tailwind,gitlab,gcp&perline=12" alt="Tech Stack 2" />
+<img src="https://skillicons.dev/icons?i=github,gitlab,aws,html,css,react,nextjs,tailwind,vuejs,vscode,postman,figma,notion,linux&perline=14" alt="DevOps, Tools & Frontend" />
 </p>
 
 ---
@@ -114,7 +116,3 @@ Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **
 <p>⚡ Always learning. Always building.</p>
 <p><sub>📍 India | 🚀 Always learning & growing</sub></p>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F6B4F,100:063B2E&section=footer" width="100%" />
