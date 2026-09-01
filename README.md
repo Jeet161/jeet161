@@ -41,7 +41,7 @@ My goal is to become a strong software engineer by building real-world systems, 
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### 🔤 Languages
 <p><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&perline=8" alt="Languages" /></p>
@@ -62,13 +62,9 @@ My goal is to become a strong software engineer by building real-world systems, 
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel&perline=8" alt="Tools & Cloud" /></p>
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet161&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Top Languages Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%" alt="GitHub Profile Stats" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,react,nextjs,tailwind,vite,fastapi,nestjs,nodejs,express,postgres,mongodb,mysql,supabase,prisma,pytorch,opencv,arduino,docker,git,github,linux,postman,vscode,vercel&perline=4" alt="Full Tech Stack Grid" />
 
 </td>
 </tr>
