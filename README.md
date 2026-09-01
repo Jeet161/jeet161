@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/ChatGPT%20Image%20Sep%202%2C%202026%2C%2012_02_27%20AM.png" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/1618549865446455.jpg" width="100%" alt="Header Banner" />
 
   # **Hi 👋, I'm Jeet Dey**
 
