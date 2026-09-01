@@ -73,9 +73,10 @@ My goal is to become a strong software engineer by building real-world systems, 
 
 <h2 align="center">🎯 What I Build</h2>
 
-<table width="100%">
+<div align="center">
+<table width="100%" align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <ul>
         <li>🌐 <b>Full-Stack Web Applications</b></li>
         <li>⚙️ <b>REST APIs & Backend Services</b></li>
@@ -84,7 +85,7 @@ My goal is to become a strong software engineer by building real-world systems, 
         <li>📊 <b>Data & ML Applications</b></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <ul>
         <li>🔌 <b>IoT & Embedded Projects</b></li>
         <li>🐳 <b>Containerized Applications</b></li>
@@ -95,6 +96,7 @@ My goal is to become a strong software engineer by building real-world systems, 
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
