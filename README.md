@@ -39,35 +39,40 @@ My goal is to become a strong software engineer by building real-world systems, 
 
 <h2 align="center">💻 Tech Stack</h2>
 
-### 🔤 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&perline=10" alt="Languages" />
-</p>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-### ⚛️ Frontend Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=10" alt="Frontend" />
-</p>
+### 🔤 Languages
+<p><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&perline=8" alt="Languages" /></p>
+
+### ⚛️ Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=8" alt="Frontend" /></p>
 
 ### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express&perline=10" alt="Backend" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express&perline=8" alt="Backend" /></p>
 
 ### 🗄️ Databases & ORMs
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma&perline=10" alt="Databases" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma&perline=8" alt="Databases" /></p>
 
 ### 🤖 AI, Data & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&perline=10" alt="AI & Hardware" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&perline=8" alt="AI & Hardware" /></p>
 
-### 🐳 DevOps, Tools & OS
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel&perline=10" alt="Tools & Cloud" />
-</p>
+### 🐳 DevOps & Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel&perline=8" alt="Tools & Cloud" /></p>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet161&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Top Languages Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%" alt="GitHub Profile Stats" />
+
+</td>
+</tr>
+</table>
 
 ---
 
