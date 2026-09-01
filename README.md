@@ -38,25 +38,6 @@ My goal is to become a strong software engineer by building real-world systems, 
 </tr>
 </table>
 
----
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/Jeet161" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jeet161" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:connect.jeetdey@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" />
-  </a>
-</p>
-
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
