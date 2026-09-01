@@ -11,7 +11,6 @@
 <table>
 <tr>
 
-<!-- LEFT SIDE -->
 <td width="55%" valign="top">
 
 <h2>👋 ABOUT ME</h2>
@@ -84,13 +83,16 @@ and turning ideas into working products.
 
 </td>
 
-
-<!-- RIGHT SIDE -->
 <td width="45%" valign="top" align="center">
 
 <br>
 
-<img src="./mori.jpg" width="100%"/>
+<img 
+  src="./mori.jpg" 
+  width="100%" 
+  height="550"
+  style="object-fit: cover;"
+/>
 
 <br><br>
 
@@ -98,8 +100,6 @@ and turning ideas into working products.
 
 </tr>
 
-
-<!-- WHAT I BUILD -->
 <tr>
 
 <td colspan="2">
@@ -123,8 +123,6 @@ and turning ideas into working products.
 
 <br>
 
-<!-- FEATURED PROJECTS -->
-
 <div align="center">
 
 <h2>⭐ FEATURED PROJECTS</h2>
@@ -146,9 +144,7 @@ A selection of things I've built, experimented with, and shipped.
 Real-time flood intelligence and emergency assistance platform.
 </p>
 
-<p>
-<b>Tech Stack</b>
-</p>
+<p><b>Tech Stack</b></p>
 
 <p>
 <code>React</code>
@@ -163,7 +159,6 @@ View Project →
 
 </td>
 
-
 <td width="33%" valign="top">
 
 <h3>🛒 Multi-Vendor Marketplace</h3>
@@ -172,9 +167,7 @@ View Project →
 Modern multi-vendor e-commerce platform with a full-stack architecture.
 </p>
 
-<p>
-<b>Tech Stack</b>
-</p>
+<p><b>Tech Stack</b></p>
 
 <p>
 <code>Next.js</code>
@@ -188,7 +181,6 @@ View Project →
 
 </td>
 
-
 <td width="33%" valign="top">
 
 <h3>🚗 Smart Parking</h3>
@@ -197,9 +189,7 @@ View Project →
 Arduino-based parking assistant using distance sensing and LED indicators.
 </p>
 
-<p>
-<b>Tech Stack</b>
-</p>
+<p><b>Tech Stack</b></p>
 
 <p>
 <code>Arduino</code>
@@ -218,8 +208,6 @@ View Project →
 
 <br>
 
-<!-- GITHUB STATS -->
-
 <h2 align="center">📊 GITHUB ACTIVITY</h2>
 
 <p align="center">
@@ -237,8 +225,6 @@ width="48%"
 </p>
 
 <br>
-
-<!-- SNAKE -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
