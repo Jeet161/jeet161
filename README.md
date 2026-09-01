@@ -3,13 +3,13 @@
 
 # Hi 👋, Jeet Dey
 
-### Backend Developer
+### Full-Stack Developer
 
 <code>Just Code Nig</code>
 
 <br/>
 
-<p>Building reliable backend systems with clean architecture and scalable solutions.</p>
+<p>Building reliable full-stack applications & scalable backend systems with clean architecture.</p>
 </div>
 
 ---
@@ -20,11 +20,11 @@
 <tr>
 <td width="60%" valign="top">
 
-**Jeet Dey** — a final-year Computer Engineering student focused on backend development.
+**Jeet Dey** — a final-year Computer Engineering student focused on full-stack web development.
 
-I enjoy building scalable, production-ready APIs with **Python** and continuously improving my understanding of real-world backend systems.
+I enjoy building scalable, production-ready web applications and APIs with **Python**, **TypeScript**, **React**, and **FastAPI**, while continuously improving my understanding of real-world systems.
 
-Currently, I'm learning **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **Docker**, and **Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+Currently, I'm learning **FastAPI**, **React**, **PostgreSQL**, **SQLAlchemy**, **Docker**, and **Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
 
 My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
