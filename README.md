@@ -9,7 +9,74 @@
 
         <div style="flex:1; min-width:0;">
           <div style="margin-top:0;">
-            <div style="font-size:16px; color:#8aa5c8; font-family:monospace; margin-bottom:12px;">jeet161 / README.md</div>
+            <div style="font-size:16px; color:#8aa5c8; font-family:monospace; margin-bottom:12px;">jeet161 / # Hi 👋, Jeet
+
+**Backend Developer**  
+*Just Code Nig*
+
+> I'm a design engineer obsessed with pixel perfection and building meaningful things
+
+---
+
+## 👨‍💻 About Me
+
+**Shady** — A final-year Computer Engineering student focused on backend development.
+
+I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+
+Currently, I'm learning **FastAPI**, **PostgreSQL**, **SQL Alchemy**, **Docker**, and **Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+---
+
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail)](mailto:kalfureshi3672@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks:**
+- Python
+- FastAPI
+- PostgreSQL
+- SQL Alchemy
+
+**DevOps & Infrastructure:**
+- Docker
+- Redis
+- Kubernetes
+- Terraform
+- Ansible
+
+**Tools & Platforms:**
+- AWS
+- Git
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+
+- **87** Total Contributions
+- **3** Current Streak
+- **3** Longest Streak
+
+---
+
+## 📍 Location
+India (UTC+12:00)
+
+**Email:** kalfureshi3672@gmail.com  
+**Followers:** 6 | **Following:** 5
+
+---
+
+*Last updated: 2026-09-01*</div>
             <div style="background:linear-gradient(135deg,#3b1d71 0%,#2d2a69 60%,#1d355f 100%); border:1px solid #2a3552; border-radius:18px; padding:24px 28px; min-height:170px; display:flex; align-items:center; justify-content:center; color:#ffffff; font-size:54px; font-weight:800; letter-spacing:0.5px;">
               Jeet Dey
             </div>
