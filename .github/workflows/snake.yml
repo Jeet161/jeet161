@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Jeet161
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF4500&color_dots=%23161B22,%238B0000,%23B22222,%23FF0000,%23FF4500
+            dist/github-contribution-grid-snake.svg?color_snake=%238B949E&color_dots=%23161B22,%2321262D,%2330363D,%23484F58,%238B949E
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
