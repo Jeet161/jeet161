@@ -1,203 +1,98 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:063B2E,50:0F6B4F,100:063B2E&text=Jeet%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
-    width="100%"
-  />
-</p>
-
-<h3 align="center">
-  ELECTRONICS & COMMUNICATION ENGINEERING // AI/ML & FULL-STACK DEVELOPER
-</h3>
-
-<br>
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-<h2>👋 ABOUT ME</h2>
-
-<p>
-I'm an Electronics & Communication Engineering student passionate about
-building software, exploring AI/ML, IoT and embedded systems.
-</p>
-
-<p>
-I enjoy learning modern technologies, building practical projects,
-and turning ideas into working products.
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://jeetdev-phi.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B3D2E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Jeet161">
-<img src="https://img.shields.io/badge/GITHUB-0B3D2E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:connect.jeetdey@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
-
-<h2 align="center">🧠 TECH STACK</h2>
-
-<h3 align="center">Programming Languages</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts&theme=dark"/>
-</p>
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark"/>
-</p>
-
-<h3 align="center">Backend</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark"/>
-</p>
-
-<h3 align="center">Database</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark"/>
-</p>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
-</p>
-
-</td>
-
-<td width="45%" valign="top" align="center">
-
-<br>
-
-<img
-src="./mori.jpg"
-width="360"
-height="500"
-/>
-
-<br><br>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-<h2>🚀 WHAT I BUILD</h2>
-
-<ul>
-<li>🌐 Web Applications</li>
-<li>⚙️ Full-Stack Applications</li>
-<li>🤖 AI & Machine Learning Projects</li>
-<li>🔌 IoT & Embedded Systems</li>
-<li>⚡ Arduino & Electronics Projects</li>
-<li>🧪 Experimental Projects</li>
-</ul>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="center">
-
-<h2>⭐ FEATURED PROJECTS</h2>
-
-<p>
-A selection of things I've built, experimented with, and shipped.
-</p>
-
+﻿<div align="center">
+  <h1>Hi 👋, I'm Jeet Dey</h1>
+  <h3>Backend Developer | Full-Stack Enthusiast</h3>
+  <p>Electronics & Communication Engineering Student | Building reliable systems with clean code</p>
 </div>
 
-<table>
-<tr>
+---
 
-<td width="33%" valign="top">
+### 🚀 About Me
 
-<h3>🌊 FloodGuard</h3>
+I'm a passionate backend developer focused on building scalable, production-ready systems. I enjoy working with modern technologies and solving real-world problems with clean, maintainable code.
 
-<p>
-Real-time flood intelligence and emergency assistance platform.
+Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **Redis** to deepen my understanding of real-world backend architectures.
+
+**My Goal:** Write clean code, build reliable software, and grow into a software engineer who creates systems that matter.
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Jeet161">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/jeet161">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:connect.jeetdey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p><b>Tech Stack</b></p>
+---
 
+### 💻 Tech Stack
+
+<h4>Languages & Frameworks</h4>
 <p>
-<code>React</code>
-<code>Python</code>
-<code>Flask</code>
-<code>Leaflet</code>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript&theme=dark" alt="Languages"/>
 </p>
 
-<a href="#">
-View Project →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🛒 Multi-Vendor Marketplace</h3>
-
+<h4>Frontend</h4>
 <p>
-Modern multi-vendor e-commerce platform with a full-stack architecture.
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 </p>
 
-<p><b>Tech Stack</b></p>
-
+<h4>Backend & Databases</h4>
 <p>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>PostgreSQL</code>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb&theme=dark" alt="Backend"/>
 </p>
 
-<a href="#">
-View Project →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🚗 Smart Parking</h3>
-
+<h4>DevOps & Tools</h4>
 <p>
-Arduino-based parking assistant using distance sensing and LED indicators.
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" alt="Tools"/>
 </p>
 
-<p><b>Tech Stack</b></p>
+---
 
-<p>
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🎯 What I Build
+
+- 🌐 Full-Stack Web Applications
+- ⚙️ RESTful APIs & Backend Services
+- 🗄️ Database Design & Optimization
+- 🐳 Containerized Applications with Docker
+- 📱 Responsive Frontend Applications
+- 🚀 Scalable System Architecture
+
+---
+
+### 📈 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **FloodGuard** | Real-time flood monitoring & emergency platform | React, Python, Flask |
+| **E-Commerce Platform** | Multi-vendor marketplace with full-stack architecture | Next.js, TypeScript, PostgreSQL |
+| **Smart Parking System** | Arduino-based parking assistant | Arduino, C++ |
+
+---
+
+<div align="center">
+  <p>
+    <strong>Let's build something amazing together!</strong>
+  </p>
+  <p>
+    <sub>Currently based in India 🇮🇳 | Always learning & growing</sub>
+  </p>
+</div>
 <code>Arduino</code>
 <code>C++</code>
 <code>Ultrasonic</code>
