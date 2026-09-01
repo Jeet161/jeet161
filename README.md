@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/banner.jpg" width="100%" alt="Header Banner" />
 
-<br/>
-
 # Hi 👋, Jeet Dey
 
 ### Backend Developer
