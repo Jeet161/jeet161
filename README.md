@@ -161,7 +161,7 @@ My goal is to become a strong software engineer by building real-world systems, 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake" />
 </p>
 
 ---
