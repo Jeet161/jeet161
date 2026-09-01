@@ -16,7 +16,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="65%" valign="top">
+<td width="58%" valign="top">
 
 🎓 **Education:**
 - **B.Tech in Electronics & Communication Engineering (ECE)**
@@ -32,7 +32,7 @@
 My goal is to become a strong software engineer by building real-world systems, understanding how they work under the hood, and continuously improving my skills in backend engineering, system design, AI/ML, and problem solving.
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/avatar.png" width="100%" alt="Developer Workstation" />
 </td>
 </tr>
