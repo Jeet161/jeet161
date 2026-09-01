@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,50:FF0000,100:8B0000&text=Jeet%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B0000,50:FF0000,100:8B0000&text=Jeet%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
+    width="100%"
+  />
 </p>
 
 <h3 align="center">
@@ -11,6 +14,7 @@
 <table>
 <tr>
 
+<!-- LEFT COLUMN -->
 <td width="55%" valign="top">
 
 <h2>👋 ABOUT ME</h2>
@@ -28,6 +32,7 @@ and turning ideas into working products.
 <br>
 
 <p>
+
 <a href="https://jeetdev-phi.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
@@ -35,9 +40,11 @@ and turning ideas into working products.
 <a href="https://github.com/Jeet161">
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 <p>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -45,6 +52,7 @@ and turning ideas into working products.
 <a href="mailto:connect.jeetdey@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 <br>
@@ -83,15 +91,16 @@ and turning ideas into working products.
 
 </td>
 
+
+<!-- RIGHT COLUMN -->
 <td width="45%" valign="top" align="center">
 
 <br>
 
-<img 
-  src="./mori.jpg" 
-  width="100%" 
-  height="550"
-  style="object-fit: cover;"
+<img
+  src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/mori.jpg"
+  width="360"
+  height="500"
 />
 
 <br><br>
@@ -100,6 +109,8 @@ and turning ideas into working products.
 
 </tr>
 
+
+<!-- WHAT I BUILD -->
 <tr>
 
 <td colspan="2">
@@ -122,6 +133,9 @@ and turning ideas into working products.
 </table>
 
 <br>
+
+
+<!-- FEATURED PROJECTS -->
 
 <div align="center">
 
@@ -159,6 +173,7 @@ View Project →
 
 </td>
 
+
 <td width="33%" valign="top">
 
 <h3>🛒 Multi-Vendor Marketplace</h3>
@@ -180,6 +195,7 @@ View Project →
 </a>
 
 </td>
+
 
 <td width="33%" valign="top">
 
@@ -208,6 +224,9 @@ View Project →
 
 <br>
 
+
+<!-- GITHUB ACTIVITY -->
+
 <h2 align="center">📊 GITHUB ACTIVITY</h2>
 
 <p align="center">
@@ -225,6 +244,9 @@ width="48%"
 </p>
 
 <br>
+
+
+<!-- CONTRIBUTION SNAKE -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
@@ -248,6 +270,6 @@ width="90%"
 <br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF0000,100:8B0000&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF0000,100:8B0000&section=footer"
 width="100%"
 />
