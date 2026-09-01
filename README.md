@@ -72,7 +72,7 @@ My goal is to become a strong software engineer by building real-world systems, 
 
 ### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&perline=10" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express&perline=10" alt="Backend" />
 </p>
 
 ### 🗄️ Databases & ORMs
