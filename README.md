@@ -110,4 +110,4 @@ Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F6B4F,100:063B2E&section=footer" width="100%" />
+
