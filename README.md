@@ -79,24 +79,14 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&bg_color=0d1117&title_color=fff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d" width="48%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true&background=0D1117&ring=1B8A5A&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="48%" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeet161&theme=github_dark" width="48%" alt="GitHub Stats" />
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet161&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=FFFFFF" width="50%" alt="Top Languages" />
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Jeet161&theme=dark-dimmed&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeet161&theme=github_dark" width="50%" alt="Top Languages" />
 </p>
 
 ---
