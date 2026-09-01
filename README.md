@@ -1,78 +1,219 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,50:FF0000,100:8B0000&text=Jeet%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<div align="center">
 
-<h1 align="center">Hi 👋  I'm Jeet Dey</h1>
+<h1>JEET DEY</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+Modern+Web+Technolo[...]"
+<h3>ELECTRONICS & COMMUNICATION ENGINEERING // AI/ML & FULL-STACK DEVELOPER</h3>
+
+</div>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+<h2>👋 ABOUT ME</h2>
+
+<p>
+I'm an Electronics & Communication Engineering student passionate about
+building software, exploring AI/ML, and working with IoT and embedded systems.
 </p>
 
----
-
-# 🚀 About Me
-💻 I am a **passionate learner exploring modern web technologies and backend development.**
-⚡ Currently focused on improving my **full stack development and programming skills.**
-📚 Always learning and building to become a better developer every day.
-
----
-
-# 🧠 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+<p>
+I enjoy learning modern technologies, building practical projects,
+and turning ideas into working products.
 </p>
 
----
+<br>
 
-# 🌐 Frontend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+<a href="https://jeetdev-phi.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/Jeet161">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:connect.jeetdey@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<h2>🧠 TECH STACK</h2>
+
+<h3>Programming Languages</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts&theme=dark">
 </p>
 
----
+<h3>Frontend</h3>
 
-# ⚙️ Backend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark">
 </p>
 
----
+<h3>Backend</h3>
 
-# 🗄️ Databases & ORM
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" />
-</p>
-<p align="center">
-ORM Tools
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark">
 </p>
 
----
+<h3>Database</h3>
 
-# 🛠 Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark">
 </p>
 
----
+<h3>Tools</h3>
 
-# 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet161&layout=compact&theme=dark&hide_border=true" width="35%" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true" width="60%" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark">
 </p>
 
----
+</td>
 
-# 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg" width="100%" />
+
+<td width="45%" align="center" valign="top">
+
+<br>
+
+<img src="mori.jpg" width="100%">
+
+<br><br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<h2>🚀 WHAT I BUILD</h2>
+
+<ul>
+<li>🌐 Web applications</li>
+<li>⚙️ Full-stack applications</li>
+<li>🤖 AI & Machine Learning projects</li>
+<li>🔌 IoT & Embedded Systems</li>
+<li>⚡ Arduino & Electronics projects</li>
+<li>🧪 Experimental projects</li>
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>⭐ FEATURED PROJECTS</h2>
+
+<p>
+A selection of things I've built, experimented with, and shipped.
 </p>
 
----
+</div>
 
-<p align="center">
-⚡ <b>Learning every day and growing as a developer.</b>
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🌊 FloodGuard</h3>
+
+<p>
+Real-time flood intelligence and emergency assistance platform.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF0000,100:8B0000&section=footer"/>
+<p>
+<b>Tech</b>
+</p>
+
+<p>
+<code>React</code>
+<code>Python</code>
+<code>Flask</code>
+<code>Leaflet</code>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🛒 Multi-Vendor Marketplace</h3>
+
+<p>
+A modern marketplace platform with vendor management and
+full-stack architecture.
+</p>
+
+<p>
+<b>Tech</b>
+</p>
+
+<p>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>PostgreSQL</code>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🚗 Smart Parking</h3>
+
+<p>
+Arduino-based parking assistant using distance sensing
+and LED indicators.
+</p>
+
+<p>
+<b>Tech</b>
+</p>
+
+<p>
+<code>Arduino</code>
+<code>C++</code>
+<code>Ultrasonic</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">📊 GITHUB ACTIVITY</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%">
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true" width="48%">
+
+</p>
+
+<br>
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg" width="90%">
+
+</p>
+
+<br>
+
+<div align="center">
+
+### BUILD • LEARN • EXPERIMENT • REPEAT
+
+</div>
