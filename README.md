@@ -1,154 +1,115 @@
-﻿# Hi 👋, Jeet Dey
+<div align="center">
+  <img src="./assets/banner.png" width="100%" alt="Header Banner" />
+  
+  <br/><br/>
 
-**Backend Developer**
+  # Hi 👋, Imma Shady
 
-*Just Code Nig*
+  ### Backend Developer
 
-Building reliable backend systems with clean architecture and scalable solutions.
+  <code>Just Code Nig</code>
 
----
+  <br/>
 
-## 🚀 About Me
-
-I'm a passionate backend developer focused on building scalable, production-ready systems. I enjoy working with modern technologies and solving real-world problems with clean, maintainable code.
-
-Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **Redis** to deepen my understanding of real-world backend architectures.
-
-**My Goal:** Write clean code, build reliable software, and grow into a software engineer who creates systems that matter.
+  <p>Building reliable backend systems with clean architecture and scalable solutions.</p>
+</div>
 
 ---
 
-## 💛 Connect With Me
+## <p align="center">🚀 About Me</p>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="60%" valign="top">
+
+**Shaddy, Here** — a final-year Computer Engineering student focused on backend development.
+
+I enjoy building scalable, production-ready APIs with **Python** and continuously improving my understanding of real-world backend systems.
+
+Currently, I'm learning **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **Docker**, and **Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/avatar.png" width="100%" alt="Developer Workstation" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## <p align="center">🤝 Connect</p>
 
 <p align="center">
-  <a href="https://github.com/Jeet161">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Jeet161" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/jeet161">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jeet161" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="mailto:connect.jeetdey@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="mailto:connect.jeetdey@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-**Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,elixir,javascript,typescript&theme=dark" alt="Languages"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-</p>
-
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" alt="Backend"/>
-</p>
-
-**DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode&theme=dark" alt="Tools"/>
-</p>
-
----
-
-## 🎯 What I Build
-
-- 🌐 Full-Stack Web Applications
-- ⚙️ RESTful APIs & Backend Services
-- 🗄️ Database Design & Optimization
-- 🐳 Containerized Applications with Docker
-- 📱 Responsive Frontend Applications
-- 🚀 Scalable System Architecture
-
----
-
-## 📊 GitHub Stats
+## <p align="center">💻 Tech Stack</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark&bg_color=0d1117&title_color=fff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,elixir,docker,git,github,vscode,html,css,cpp,aws&perline=12" alt="Tech Stack 1" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,tensorflow,pytorch,gcp" alt="Tech Stack 2" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## <p align="center">🎯 What I Build</p>
 
-[![Jeet's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jeet161&theme=dark-dimmed&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🌐 **Full-Stack Web Applications**
+- ⚙️ **RESTful APIs & Backend Services**
+- 🗄️ **Database Design & Optimization**
+- 🐳 **Containerized Applications with Docker**
+- 📱 **Responsive Frontend Applications**
+- 🚀 **Scalable System Architecture**
+
+---
+
+## <p align="center">📊 GitHub Stats</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true&background=0D1117&ring=1B8A5A&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="60%" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## <p align="center">📈 Activity Graph</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Jeet161&theme=dark-dimmed&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
+</p>
+
+---
+
+## <p align="center">🐍 CONTRIBUTION SNAKE</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
+</p>
 
 ---
 
 <div align="center">
-  <p><strong>Let's build something amazing together!</strong></p>
+  <h3>BUILD • LEARN • EXPERIMENT • REPEAT</h3>
+  <p>⚡ Always learning. Always building.</p>
   <p><sub>📍 India | 🚀 Always learning & growing</sub></p>
 </div>
 
----
+<br/>
 
-<div align="center">
-  <p>
-    <strong>Let's build something amazing together!</strong>
-  </p>
-  <p>
-    <sub>📍 India | 🚀 Always learning & growing</sub>
-  </p>
-</div>
-
-<br>
-
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
-
-<br>
-
-<p align="center">
-<img
-src="https://streak-stats.demolab.com/?user=Jeet161&theme=dark&hide_border=true&background=0D1117&ring=1B8A5A&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-width="70%"
-/>
-</p>
-
-<br>
-
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet161&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=FFFFFF"
-width="45%"
-/>
-</p>
-
-<br>
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<br>
-
-<p align="center">
-<img
-src="https://raw.githubusercontent.com/Jeet161/Jeet161/output/github-contribution-grid-snake.svg"
-width="90%"
-/>
-</p>
-
-<br>
-
-<div align="center">
-
-<h3>BUILD • LEARN • EXPERIMENT • REPEAT</h3>
-
-<p>
-⚡ Always learning. Always building.
-</p>
-
-</div>
-
-<br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F6B4F,100:063B2E&section=footer"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F6B4F,100:063B2E&section=footer" width="100%" />
