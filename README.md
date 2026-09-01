@@ -36,30 +36,22 @@ Currently learning and exploring **FastAPI**, **PostgreSQL**, **Docker**, and **
 
 <h4>Languages & Frameworks</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cplusplus,elixir,javascript,typescript&theme=dark" alt="Languages"/>
 </p>
 
 <h4>Frontend</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html5,css3,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 </p>
 
 <h4>Backend & Databases</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,dbeaver,mongodb&theme=dark" alt="Backend"/>
 </p>
 
 <h4>DevOps & Tools</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" alt="Tools"/>
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet161&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode&theme=dark" alt="Tools"/>
 </p>
 
 ---
