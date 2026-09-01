@@ -20,14 +20,12 @@
 
 🎓 **Education:**
 - **B.Tech in Electronics & Communication Engineering (ECE)**
-- **Honors in AI/ML**
 - **Lovely Professional University**
 
-💡 **Passions & Focus:**
-- Full-Stack Web Applications & Backend Architecture
+💻 **Interested In:**
+- Full-Stack Web Development & Backend Engineering
 - AI/ML Solutions & Data Integration
-- Embedded Systems, IoT & Hardware Projects
-- Algorithmic Problem Solving & System Design
+- IoT & Embedded Systems
 
 My goal is to become a strong software engineer by building real-world systems, understanding how they work under the hood, and continuously improving my skills in backend engineering, system design, AI/ML, and problem solving.
 
