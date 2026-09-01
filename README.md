@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/597008494366832315.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/%23discordbanner%20%23banner.jpg" width="100%" alt="Header Banner" />
 
-  # **Hi 👋, I'm Jeet Dey**
+  # **Hi 👋, I'm Jeet**
 
   ## **Full-Stack Developer | ECE & AI/ML Student**
 
