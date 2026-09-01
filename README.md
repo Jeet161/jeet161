@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jeet161/Jeet161/main/assets/ChatGPT%20Image%20Sep%202%2C%202026%2C%2012_02_27%20AM.png" width="100%" alt="Header Banner" />
 
-  # Hi 👋, I'm Jeet Dey
+  # **Hi 👋, I'm Jeet Dey**
 
-  ### Full-Stack Developer | ECE & AI/ML Student
+  ## **Full-Stack Developer | ECE & AI/ML Student**
 
   <p align="center">
-    <i>Building modern full-stack applications, backend systems, and AI-powered solutions with clean, practical engineering.</i>
+    <h3><b>Building modern full-stack applications, backend systems, and AI-powered solutions with clean, practical engineering.</b></h3>
   </p>
 </div>
 
