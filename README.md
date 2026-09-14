@@ -152,7 +152,7 @@ My goal is to become a strong software engineer by building real-world systems, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeet161&theme=github_dark" width="48%" alt="GitHub Stats" />
 </p>
 
-.
+
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
